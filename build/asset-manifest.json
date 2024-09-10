@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.72feb3fd.css",
-    "main.js": "/static/js/main.1b5d5c1b.js",
-    "static/media/image.png": "/static/media/image.d5c1a7977981b3a6ea1a.png",
-    "index.html": "/index.html",
-    "main.72feb3fd.css.map": "/static/css/main.72feb3fd.css.map",
-    "main.1b5d5c1b.js.map": "/static/js/main.1b5d5c1b.js.map"
+    "main.css": "/react-ancientTraveller-project/static/css/main.72feb3fd.css",
+    "main.js": "/react-ancientTraveller-project/static/js/main.bafc3a60.js",
+    "static/media/image.png": "/react-ancientTraveller-project/static/media/image.d5c1a7977981b3a6ea1a.png",
+    "index.html": "/react-ancientTraveller-project/index.html",
+    "main.72feb3fd.css.map": "/react-ancientTraveller-project/static/css/main.72feb3fd.css.map",
+    "main.bafc3a60.js.map": "/react-ancientTraveller-project/static/js/main.bafc3a60.js.map"
   },
   "entrypoints": [
     "static/css/main.72feb3fd.css",
-    "static/js/main.1b5d5c1b.js"
+    "static/js/main.bafc3a60.js"
   ]
 }
